@@ -44,6 +44,3 @@ bwillow1222/ds4002MI3P3
 ├── LICENSE.md              # License file (MIT License)
 ├── README.md               # This file
 └── Rubric.pdf              # File containing instructions for the case study
-
-
-[3] Analytics Vidhya, "Top 4 Pre-Trained Models for Image Classification + Python Code," 2020. [Online]. Available: https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/#h-resnet50
