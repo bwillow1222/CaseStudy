@@ -39,15 +39,11 @@ bwillow1222/ds4002MI3P3
 │
 ├── SOURCES/
 │   ├── Cats_and_Dogs.pdf             # Oxford pet breed identification research
+│   └── 2023_Shelter_Rport.pdf        # 2023 animal shelter report
 │   
 ├── LICENSE.md              # License file (MIT License)
 ├── README.md               # This file
 └── Rubric.pdf              # File containing instructions for the case study
 
-```
-## References
-[1] A. Parkhi, A. Vedaldi, A. Zisserman, and C. V. Jawahar, "The Oxford-IIIT Pet Dataset," Visual Geometry Group, University of Oxford, 2012. [Online]. Available: https://www.robots.ox.ac.uk/~vgg/data/pets/
-
-[2] N. Chaure, "Variants of ResNet: A Comparative Analysis," Medium, 2020. [Online]. Available: https://medium.com/@nayanchaure601/variants-of-resnet-a-comparative-analysis-63fdc1573b34
 
 [3] Analytics Vidhya, "Top 4 Pre-Trained Models for Image Classification + Python Code," 2020. [Online]. Available: https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/#h-resnet50
