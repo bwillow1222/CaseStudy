@@ -44,25 +44,6 @@ bwillow1222/ds4002MI3P3
 ├── README.md               # This file
 └── Rubric.pdf              # File containing instructions for the case study
 
-```
-## Instructions for Reproducing Results
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/bwillow1222/ds4003MI3P3.git
-   cd project
-2. **Install the required packages**
-   ```bash
-   pip install -r requirements.txt
-3. **Run data preprocessing**
-   ```bash
-   jupyter notebook SCRIPTS/ImagePreprocess.ipynb
-4. **Model implementation**
-   ```bash
-   jupyter notebook SCRIPTS/PetImages.ipynb
-5. **Check the results:**
-   View the visualizations and performance metrics in the `OUTPUT/` folder.
-
 ## References
 [1] A. Parkhi, A. Vedaldi, A. Zisserman, and C. V. Jawahar, "The Oxford-IIIT Pet Dataset," Visual Geometry Group, University of Oxford, 2012. [Online]. Available: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
