@@ -42,7 +42,7 @@ bwillow1222/ds4002MI3P3
 │   
 ├── LICENSE.md              # License file (MIT License)
 ├── README.md               # This file
-└── 
+└── Rubric.pdf              # File containing instructions for the case study
 
 ```
 ## Instructions for Reproducing Results
