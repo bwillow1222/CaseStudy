@@ -44,6 +44,7 @@ bwillow1222/ds4002MI3P3
 ├── README.md               # This file
 └── Rubric.pdf              # File containing instructions for the case study
 
+```
 ## References
 [1] A. Parkhi, A. Vedaldi, A. Zisserman, and C. V. Jawahar, "The Oxford-IIIT Pet Dataset," Visual Geometry Group, University of Oxford, 2012. [Online]. Available: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
